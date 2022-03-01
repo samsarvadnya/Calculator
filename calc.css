@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: sans-serif;
+    
+}
+body{
+    background-image: url(img/backgroundprofile3.jpg);
+    background-repeat: no-repeat;
+   
+}
+.display{
+    height: 68px;
+    
+    border: none;
+    background-color: black;
+    text-align: end;
+    color: white;
+    padding: 20px;
+    font-size: 50px;
+    
+}
+.btn-secondary{
+    background-color: #333333;
+}
+.btn-warning{
+    background-color: #fe9504;
+}
+.footer{
+    color: white;
+    font-weight: lighter;
+}
+.main{
+    
+    background-color: rgb(1, 2, 3);
+    width: 384px;
+    padding: 20px;
+    border-radius: 20px;
+   
+    
+    margin: auto;
+    box-shadow: 1px 1px 13px gray;
+}
+.container{
+    height: 678px;
+    margin-top: 80px;
+    text-align: center;
+    justify-content: center;
+   
+}
+.btn-light{
+    background-color: #a5a5a5 ;
+    color: black;
+}
+#zero{
+    width: 160px;
+    border-radius: 42px;
+    text-align: start;
+    padding: 25px;
+}
+.btn{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    
+    box-shadow: 1px 1px 5px gray;
+    border: none;
+    color: rgb(240, 235, 235);
+    
+    font-size: 30px;
+}
